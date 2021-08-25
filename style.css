@@ -1,0 +1,154 @@
+html,
+body {
+	margin: 10px;
+	padding: 0;
+	background-color:#E6E6FA;
+
+  }
+
+h1{
+	color: #4312AE;
+	font-family: Apple Chancery, cursive;
+	font-size: 55px;
+	font-style: oblique;
+	text-align: center;
+	font-weight: 900;
+	line-height: 300%;
+	background-color:#E5CCFF;
+	border-style:dashed;
+	border-color:#280671;
+	border-width:25px;
+}
+
+p.purple1{
+	padding:10px;
+	color: white;
+	font-family: Apple Chancery, cursive;
+	font-size: 20px;
+	text-align: center;
+	font-weight: 900;
+	line-height: 300%;
+	border-style:ridge;
+	border-color:white;
+	background-color: #280671;
+}
+
+p.purple{
+	color: #280671;
+	font-family: Apple Chancery, cursive;
+	font-size: 20px;
+	text-align: center;
+	font-weight: 900;
+	line-height: 300%;
+	background-color:#8E6DD7;
+	border-style:groove;
+	border-color:#472B83;
+	border-radius: 5px;
+	border-width:5px;
+	padding:30px;
+}
+
+p.purple2{
+	padding:10px;
+	color: white;
+	font-family: Apple Chancery, cursive;
+	font-size: 20px;
+	text-align: center;
+	font-weight: 900;
+	line-height: 300%;
+	border-style:ridge;
+	border-color:white;
+	background-color:#472B83;
+}
+
+p.purple3{
+	padding:10px;
+	color: white;
+	font-family: Apple Chancery, cursive;
+	font-size: 20px;
+	text-align: center;
+	font-weight: 900;
+	line-height: 300%;
+	border-style:ridge;
+	border-color:white;
+	background-color:	#4312AE;
+}
+
+p.purple4{
+	padding:10px;
+	color: white;
+	font-family: Apple Chancery, cursive;
+	font-size: 20px;
+	text-align: center;
+	font-weight: 900;
+	line-height: 300%;
+	border-style:ridge;
+	border-color:white;
+	background-color:	#7446D7;
+}
+
+p.purple5{
+	padding:10px;
+	color: white;
+	font-family: Apple Chancery, cursive;
+	font-size: 20px;
+	text-align: center;
+	font-weight: 900;
+	line-height: 300%;
+	border-style:ridge;
+	border-color:white;
+	background-color:	#8E6DD7;
+}
+
+p.purple6{
+	padding:10px;
+	color: white;
+	font-family: Apple Chancery, cursive;
+	font-size: 20px;
+	text-align: center;
+	font-weight: 900;
+	line-height: 300%;
+	border-style:ridge;
+	border-color:white;
+	background-color:	#E5CCFF;
+}
+
+p.purple7{
+	padding:10px;
+	color: white;
+	font-family: Apple Chancery, cursive;
+	font-size: 20px;
+	text-align: center;
+	font-weight: 900;
+	line-height: 300%;
+	border-style:ridge;
+	border-color:white;
+	background-color:	#E6E6FA ;
+}
+
+p.purple0{
+	padding:10px;
+	color: #986D8E;
+	font-family: Apple Chancery, cursive;
+	font-size: 20px;
+	text-align: center;
+	font-weight: 900;
+	line-height: 300%;
+	border-style:inset;
+	border-color:#986D8E;
+	border-width:10px;
+	background-color:	#E6E6FA ;
+}
+
+/*Color scheme for this website:
+     #4312AE Indigo
+     #472B83 Purple
+     #280671 Dark Purple
+     #7446D7 Light Purple
+     #8E6DD7 Lavender
+		 #E6E6FA Real Lavender :)
+		 #E5CCFF Light Light Purple
+		 #986D8E
+		 #BEAEE2
+*/
+  
